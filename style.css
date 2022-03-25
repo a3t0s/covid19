@@ -1,0 +1,24 @@
+
+header,aside,main{
+    border: 1px solid;
+    padding: 2px;
+    margin: 2px;
+}
+header{
+    height: 10vh;
+    width: auto;
+}
+aside{
+    position: relative;
+    width: 20vw;
+    height: 80vh;
+
+}
+main{
+    width: 80vw;
+    height: 80vh;
+}
+section{
+    display: flex;
+    flex-direction: row;
+}
