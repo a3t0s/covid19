@@ -12,7 +12,7 @@ aside{
     position: relative;
     width: 20vw;
     height: 80vh;
-
+    overflow: auto;
 }
 main{
     width: 80vw;
